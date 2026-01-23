@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Diego Gil
+# 👨🏻‍💻 Diego Gil
 
 **`<Desenvolvedor FullStack>`**
 
@@ -9,14 +9,14 @@ Me chamo Larissa Diego Gil, tenho 40 anos e sou de Joinville, Santa Catarina. Gr
         <img 
             alt="Mail" 
             title="Contact Mail" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/mail/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=E-mail&logo=mail&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.linkedin.com/in/diego-gil-dev/">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://custom-icon-badges.demolab.com/linkedin/profile/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/DGILADS?tab=repositories&sort=stargazers">
