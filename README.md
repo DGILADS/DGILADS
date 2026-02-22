@@ -2,7 +2,7 @@
 
 **`<Desenvolvedor FullStack>`**
 
-Me chamo Larissa Diego Gil, tenho 40 anos e sou de Joinville, Santa Catarina. Graduado em Análise e Desenvolvimento de Sistemas, atualmente cursando a Code Academy Alpha EdTech. Sou apaixonado por tecnologia e estou em processo de migração de carreira. Deixo meu perfil no LinkedIn, o perfil chamado "[diego-gil-dev](https://www.linkedin.com/in/diego-gil-dev/)".
+Me chamo Diego Gil, tenho 40 anos e sou de Joinville, Santa Catarina. Graduado em Análise e Desenvolvimento de Sistemas, atualmente cursando a Code Academy Alpha EdTech. Sou apaixonado por tecnologia e estou em processo de migração de carreira. Deixo meu perfil no LinkedIn, o perfil chamado "[diego-gil-dev](https://www.linkedin.com/in/diego-gil-dev/)".
 
 <p align="left">
     <a href="diegogil.ads@gmail.com">
